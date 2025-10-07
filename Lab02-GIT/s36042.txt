@@ -1,2 +1,3 @@
-Name:Illia
+Name: Illia
 University: PJATK
+Student id: s36042
